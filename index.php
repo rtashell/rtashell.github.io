@@ -8,7 +8,7 @@
     <link rel="stylesheet" type="text/css" href="stylesheets/pygment_trac.css" media="screen" />
     <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print" />
 
-    <title>rtashell.github.io by rtashell</title>
+    <title><?php echo("php test"); ?></title>
   </head>
 
   <body>
